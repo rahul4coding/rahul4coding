@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @rahul4coding
-- 👀 I’m interested in Node, Angular, JavaScript, React, MongoDB projects.
-- 🌱 I’m open for remote/freelance opportunities.
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 Email: rahul.bhatija07@gmail.com
+- 🌱 I’m open for remote work opportunities.
 
 <!---
 rahul4coding/rahul4coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
