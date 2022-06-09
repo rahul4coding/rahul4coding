@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rahul4coding
 - 🌱 I’m open for remote work opportunities.
-- ✨ I'm exploring devops & cloud.
 
 <!---
 rahul4coding/rahul4coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
