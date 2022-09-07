@@ -22,9 +22,3 @@ I'm Rahul Bhatija, Software Developer. I have worked on React, Angular, Node bas
 
 <h2>Latest Tweets 🧵</h2>
 <p align='center'><a href="https://twitter.com/rahulbhatija"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=rahulbhatija&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
-
-
-<!--
-
-
--->
