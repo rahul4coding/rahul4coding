@@ -1,7 +1,7 @@
 # Rahul Bhatija
 [![Twitter: ghumare64](https://img.shields.io/twitter/follow/rahulbhatija?style=social)](https://twitter.com/rahulbhatija)
 ![GitHub followers](https://img.shields.io/github/followers/rahul4coding?label=Follow&style=social)
-[![Linkedin: rahul-bhaijta](https://img.shields.io/badge/-rahulbhatija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-bhatija-2b3896a2/)](https://www.linkedin.com/in/rahul-bhatija-2b3896a2/) 
+[![Linkedin: rahul-bhaijta](https://img.shields.io/badge/-rahul-bhatija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-bhatija-2b3896a2/)](https://www.linkedin.com/in/rahul-bhatija-2b3896a2/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rahul.bhatija07@gmail.com)](mailto:rahul.bhatija07@gmail.com)
 ---
 ## Hi there 👋,           
