@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rahul.bhatija07@gmail.com)](mailto:rahul.bhatija07@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Rahul Bhatija, Software Developer. I have worked on React, Angular, Node based projects.
+I'm Rahul, Software Developer. I have worked on React, Angular & Node based projects.
 
 ## 🧐 About
 - 2+ years of experience in Software Development using MEAN/MERN Stack.
