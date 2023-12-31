@@ -5,10 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rahul.bhatija07@gmail.com)](mailto:rahul.bhatija07@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Rahul, Software Developer. I have worked on React, Angular & Node based projects.
+I'm Rahul, I love to work on React, Angular & Node based projects.
 
 ## 🧐 About
-- 2+ years of experience in Software Development using MEAN/MERN Stack.
+- 3+ years of experience in Software Development using MEAN/MERN Stack.
 - Actively contributing to  Open-Source Projects.
 - Experience in building applications using Angular, React.JS, Node.JS, Express.JS.
 - I previously experienced some challenging positions i.e. Software developer @Claritus Management consulting Pvt Ltd., Software developer@ LalyerIV( now Insciter).
