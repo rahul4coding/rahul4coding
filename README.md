@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate software engineer with experience in the MEAN/MERN stack & AWS cloud, currently on an exciting journey to transition into a Cloud Architect role. My technical expertise includes JavaScript, Node.js, Angular, React, and AWS Cloud, where I am actively preparing for the AWS Solution Architect Associate certification.
+I am a passionate software engineer with experience in the MEAN/MERN stack & AWS cloud, currently on an exciting journey to transition into a Cloud Architect role. My technical expertise includes JavaScript, Node.js, Angular, React, and AWS Cloud. I am actively preparing for the AWS Solution Architect Associate certification.
 
 ---
 
