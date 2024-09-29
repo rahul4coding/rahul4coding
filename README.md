@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rahul Bhatija
 
-🌟 **Software Engineer | AWS Enthusiast | Aspiring Cloud Architect**
+🌟 **Software Engineer | MEAN/MERN Stack & AWS | Aspiring Cloud Solution Architect**
 
 ---
 
