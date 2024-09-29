@@ -40,7 +40,7 @@ I am a passionate software engineer with experience in the MEAN/MERN stack & AWS
 
 - **LinkedIn**: [Rahul Bhatija](https://www.linkedin.com/in/rahul-bhatija/)
 - **Portfolio**: [My Website](https://www.rahulbhatija.com)
-- **Email**: rahulbhatija09@gmail.com 
+- **Email**: rb@rahulbhatija.com 
 
 ---
 
