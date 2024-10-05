@@ -38,8 +38,8 @@ I am a passionate software engineer with experience in the MEAN/MERN stack & AWS
 
 ### 📫 Let's Connect
 
-- **LinkedIn**: [Rahul Bhatija](https://www.linkedin.com/in/rahul-bhatija/)
-- **Portfolio**: [My Website](https://www.rahulbhatija.com)
+- **LinkedIn**: [https://www.linkedin.com/in/rahul-bhatija/](https://www.linkedin.com/in/rahul-bhatija/)
+- **Portfolio**: [https://www.rahulbhatija.com](https://www.rahulbhatija.com)
 - **Email**: rb@rahulbhatija.com 
 
 ---
